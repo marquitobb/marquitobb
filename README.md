@@ -1,4 +1,6 @@
-### Hi there 👋
+### welcome 👋🍻
+
+I'm a freelance and I work for a company called "curadeuda" as a jr software developer🧑🏻‍💻🤘🏻
 
 <!--
 **marquitobb/marquitobb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
