@@ -2,7 +2,7 @@
 
 I'm a freelance and I work for a company called "curadeuda" as a jr software developer🧑🏻‍💻🤘🏻
 
-- I'm system enginner🧑🏻‍💻
+- I'm system engineer🧑🏻‍💻
 - I love code🤘🏻
 - my favorite lenguage JS💛
 
