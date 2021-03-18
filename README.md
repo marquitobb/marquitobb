@@ -1,10 +1,10 @@
 ### welcome 👋🍻
 
-I'm a freelance and I work for a company called "curadeuda" as a jr software developer🧑🏻‍💻🤘🏻
+I'm a freelance and I work for a company called "curadeuda" as software developer🧑🏻‍💻🤘🏻
 
 - I'm system engineer🧑🏻‍💻
 - I love code🤘🏻
-- my favorite lenguage JS💛
+- my favorite lenguage JS💛 and python🐍
 
 ## my skills
 
@@ -12,9 +12,9 @@ I'm a freelance and I work for a company called "curadeuda" as a jr software dev
 
 * use Reactjs for frontend💙⚛️
 
-* use Nodejs/laravel for backend💚💖
+* use Nodejs/laravel/flask for backend💚💖
 
-* use somethings java for app desk☕️
+* use somethings java/electron for app desk☕️
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/270616/screenshots/4884916/2018-07-28_21_11_02.gif" alt="react"   height="80"/>
